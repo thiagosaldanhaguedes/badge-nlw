@@ -3,5 +3,6 @@ Badge criado durante a NLW Heat da Rockeatseat
 
 https://thiagosaldanhaguedes.github.io/badge-nlw/
 
-![image](https://user-images.githubusercontent.com/77763806/138579497-6864860b-42ec-4909-9d45-948d18042754.png)
+![image](https://user-images.githubusercontent.com/77763806/138579525-2ea495c3-8be8-4dcb-97f4-4716f5a6ee47.png)
+
 
